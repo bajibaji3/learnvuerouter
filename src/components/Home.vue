@@ -3,6 +3,7 @@
     <p>我是首页</p>
     <router-link to="/home/news">新闻</router-link>
     <router-link to="/home/message">消息</router-link>
+    <p>这是用来测试git切换版本的</p>
     <router-view></router-view>
   </div>
 </template>
