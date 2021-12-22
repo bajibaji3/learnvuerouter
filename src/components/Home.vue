@@ -7,6 +7,7 @@
     <p>测试分支合并</p>
     <p>测试分支合并 冲突合并 mater</p>
     <p>测试分支合并 冲突合并</p>
+    <p>测试push</p>
     <router-view></router-view>
   </div>
 </template>
