@@ -5,6 +5,7 @@
     <router-link to="/home/message">消息</router-link>
     <p>这是用来测试git切换版本的</p>
     <p>测试分支合并</p>
+    <p>测试分支合并 冲突合并 mater</p>
     <router-view></router-view>
   </div>
 </template>
