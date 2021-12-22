@@ -9,7 +9,7 @@
     <p>测试分支合并 冲突合并</p>
     <p>测试push</p>
     <p>测试pull</p>
-    <视图视图></视图视图>
+    <router-view></router-view>
   </div>
 </template>
 
